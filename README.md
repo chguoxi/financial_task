@@ -15,6 +15,7 @@ October CMS has a few system requirements:
 
 * PHP version 7.0 or higher
 * PDO PHP Extension
+* PHP POD_MYSQL Extension
 * cURL PHP Extension
 * OpenSSL PHP Extension
 * Mbstring PHP Library
